@@ -19,5 +19,5 @@
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/insta_style_main_feed/assets/21379657/21cb0b30-ded0-41cb-a72f-e35eca99c09b)
 
